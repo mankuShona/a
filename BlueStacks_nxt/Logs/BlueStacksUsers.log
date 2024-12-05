@@ -1,0 +1,10 @@
+﻿2024-06-22 23:49:11.849 5792:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2024-06-22 23:49:12.024-0700 5792  3052  BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2024-06-22 23:49:12.024-0700 5792  3052  BRIDGE Helper_bridge I: Loading configuration ...
+2024-06-22 23:49:12.028-0700 5792  3052  CONF   Helper_bridge E: open failed for C:\Users\Ahmad\Desktop\New folder\BlueStacks_nxt\bluestacks.conf
+2024-06-22 23:49:12.028-0700 5792  3052  BRIDGE Helper_bridge E: Error in confLibInit init
+2024-06-22 23:49:12.023 5792:00000001 (BlueStacksHelper) INFO: BridgeApi inited: -1
+2024-06-22 23:49:12.132 5792:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2024-06-22 23:49:12.991 5792:00000001 (BlueStacksHelper) INFO: Cloud response: {"success": false}
+2024-06-22 23:49:13.037 5792:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2024-06-22 23:49:13.037 5792:00000001 (BlueStacksHelper) INFO: Exiting
